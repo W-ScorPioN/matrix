@@ -4,4 +4,4 @@
 
 # The contract.sol is the smart contract code that runs on Ethereum Rinkeby testnet.
 
-# The 
+# The test.cpp is the algorithm code that executes the whole process of our matrix computation.
